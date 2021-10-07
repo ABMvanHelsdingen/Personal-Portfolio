@@ -2,6 +2,9 @@
 Personal Portfolio of Alec van Helsdingen
 Replaces, as of October 2021, my Atlassian Bitbucket repository
 
+## Data Science
+Contains a SQL University assignment. 
+
 ## Image Processing
 A university assignment in 2018. These Matlab function files implement the K-means algorithm.
 The algorithm is applied to an image, and the number of colours used in the image is reduced.
@@ -20,4 +23,4 @@ These Matlab files implement the Revised Simplex Method for solving linear progr
 Written in 2020.
 
 ## Writing
-Exemplars of my writing. 
+Exemplars of my writing from 2019 and 2020. 
