@@ -1,6 +1,5 @@
 # Personal-Portfolio
 Personal Portfolio of Alec van Helsdingen
-Replaces, as of October 2021, my Atlassian Bitbucket repository
 
 ## Data Science
 Contains a SQL University assignment. 
@@ -12,7 +11,7 @@ This is a method of compressing the file.
 
 ## Ireland Dail
 This is a personal project. The files in this folder are used to make predictions for elections in Ireland.
-The election system used there is STV (Single Transferable Vote).
+This is coded in Python. 
 
 ## Microbit
 These files were written by me and partly by University of Auckland staff in 2019. The files play "paper-scissors-rock"
